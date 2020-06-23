@@ -180,6 +180,7 @@ Acteurs listés par ordre hiérarchique descendant :
 - [Viadeo](http://fr.viadeo.com/fr/profile/melissa.schitt)
 <br>
 
+---
 
 ### Armatis LC ([site web](http://www.armatis.com/fr/secteurs-dactivites/))
 
@@ -192,7 +193,7 @@ Société fournisseur et gestionnaire de centre d'appels, titulaire d'un marché
 
 <br>
 
----
+
 
 ## Acteurs secondaires
 
@@ -375,3 +376,5 @@ Restaurateur.
 **Amélie Saunier**
 - Responsable Marketing, chez Ducasse Paris 
 - [Linkedin](https://www.linkedin.com/in/am%C3%A9lie-saunier-bb78082/?locale=fr_FR)
+
+
