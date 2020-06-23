@@ -1,31 +1,3 @@
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-
-
-
-<script>
-  
-  $(document).ready(function(){
-$('a').attr('target','_blank');
-  });
-  
- </script>
-
-
-
-
-<style>
-  
-p{
-  margin-top: 1.3rem;
-  }
-  
-</style>
-
-
-
-
-
-
 # Parties
 
 ## Christian Bonato
@@ -49,7 +21,6 @@ bonatoque@yahoo.com<br>
 Tél : +33 6 47 52 82 87
 
 <br>
-<br>
 
 
 ## Établissement public du château, du musée et du domaine national de Versailles (EPV)
@@ -71,15 +42,15 @@ Tél : +33 6 47 52 82 87
 - [Rapport d'activité 2018](http://www.chateauversailles.fr/sites/default/files/chateau-de-versailles-rapport-d-activite-2018.pdf)
 - Rapport d'activité 2019
 
+<br>
+
 **Coordonnées**<br>
 Château de Versailles - Grand Commun<br>
 1 rue de l’Indépendance américaine<br>
 RP 834 – 78008 Versailles Cedex<br>
-France
-
+France<br>
 SIREN : 180 046 260<br>
 
-<br>
 <br>
 
 # Acteurs de l'EPV
@@ -89,24 +60,25 @@ Christian Bonato a conçu, developpé, et maintenu à jour l'application "Manuel
 
 Le présent document liste la totalité des employés de l'EPV ayant communiqué à Christian Bonato des instructions et/ou des demandes d'intervention sur l'application "Manuel des Ventes" de 2013 à 2019, soit par réunions physiques, soit par appels téléphoniques, soit via courriels ([cf. l'intégralité des e-mails échangés](http://ns367573.ovh.net/castle_intranet/utilities/emails_by_category)).
 
-Les instructions et les demandes d'intervention lors du développement, de la production et des mises à jour de l'application "Manuel des Ventes" effectués de 2013 à 2019 par Christian Bonato, ont pour la majeure partie été transmises à ce dernier par le **Service Informations et Ventes (SIV)** ([cf. organigramme de l'EPV](http://www.chateauversailles.fr/resources/pdf/fr/organigrammes/Organigramme_general-Mai_2014.pdf)). 
+Les instructions et les demandes d'intervention lors du développement, de la production et des mises à jour de l'application "Manuel des Ventes" effectués de 2013 à 2019 par Christian Bonato, ont pour la majeure partie été transmises à ce dernier par le **Service Informations et Ventes (SIV)** . 
 
-Le Service Informations et Ventes dépend de la **Direction du Développement Culturel (DDC)**, qui a dans les faits commandé et fait exécuter les interventions de Christian Bonato sur l'application "Manuel des Ventes". 
+Le Service Informations et Ventes dépend de la **Direction du Développement Culturel (DDC)**, qui a dans les faits commandé et fait exécuter les interventions de Christian Bonato sur l'application "Manuel des Ventes" ([cf. organigramme de l'EPV](http://www.chateauversailles.fr/resources/pdf/fr/organigrammes/Organigramme_general-Mai_2014.pdf)). 
 
 <br>
 
 
 ## Acteurs principaux
 
-Ces acteurs "principaux" **ont tous activement participé à la tentative de l'EPV d'attribuer de facto le marché public de l'Application "Manuel des Ventes" à Christian Bonato**, via le lancement d'un appel d'offres rédigé sur mesure.
+Ces acteurs "principaux" **ont tous activement participé à la tentative de l'EPV d'attribuer de facto un marché public pour l'Application "Manuel des Ventes" à Christian Bonato**, via un appel d'offres rédigé sur mesure.
 
-Ces acteurs "principaux" sont également tous au courant du fait que **l'EPV a à cet effet demandé à Christian Bonato de rédiger lui-même le [Cahier des Charges Fonctionnel et Technique](http://ns367573.ovh.net/alternate_www/castle_intranet/_final_filings/2018/2018-05/%C2%B7%202018-05%20emails%20numbered/67/clean_cahier_des_charges_fonctionnel_et__technique_du_manuel_des_ventes_de_l_epv_-_2018-05_-_v1.pdf)** de l'appel d'offres.  
+Ces acteurs "principaux" sont tous au courant du fait que **l'EPV a à cet effet demandé à Christian Bonato de rédiger lui-même le [Cahier des Charges Fonctionnel et Technique](http://ns367573.ovh.net/alternate_www/castle_intranet/_final_filings/2018/2018-05/%C2%B7%202018-05%20emails%20numbered/67/clean_cahier_des_charges_fonctionnel_et__technique_du_manuel_des_ventes_de_l_epv_-_2018-05_-_v1.pdf)** de l'appel d'offres.  
 
--> Voir : [Bonato EPV - Marché Public](#)
+
 
 Ils sont également tous au courant (exceptés Lionel Dupont et Jonathan Drahi) de la tentative par l'EPV de faire **acheter l'Application "Manuel des Ventes" par la société Armatis-LC pour le compte de l'EPV**.
 
--> Voir : [Bonato EPV - Marché Public](#)
+-> Voir : [Bonato EPV - Marché Public](https://bonatoc.github.io/epv_marche_public/)
+
 
 <br>
 
@@ -168,7 +140,6 @@ Acteurs listés par ordre hiérarchique descendant :
 **Mélissa Schitt**
 - Juriste marchés publics, Direction Administrative, Financière et Juridique (2014-présent)
 - [Viadeo](http://fr.viadeo.com/fr/profile/melissa.schitt)
-<br>
 <br>
 
 
@@ -369,4 +340,5 @@ Restaurateur.
 **Amélie Saunier**
 - Responsable Marketing, chez Ducasse Paris 
 - [Linkedin](https://www.linkedin.com/in/am%C3%A9lie-saunier-bb78082/?locale=fr_FR)
+
 
