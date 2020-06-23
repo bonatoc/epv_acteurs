@@ -9,12 +9,13 @@
 - SIRET : 394 464 283 00032 · Code APE : 923A
 
 
-**Coordonnées**
+**Coordonnées**<br>
 75 rue de la Paroisse<br>
 78000 Versailles<br>
 bonatoque@yahoo.com<br>
-Tél : +33 6 47 52 82 87<br>
+Tél : +33 6 47 52 82 87
 
+<br>
 <br>
 
 
@@ -37,14 +38,16 @@ Tél : +33 6 47 52 82 87<br>
 - [Rapport d'activité 2018](http://www.chateauversailles.fr/sites/default/files/chateau-de-versailles-rapport-d-activite-2018.pdf)
 - Rapport d'activité 2019
 
-**Coordonnées**
-Château de Versailles - Grand Commun
-1 rue de l’Indépendance américaine
-RP 834 – 78008 Versailles Cedex
+**Coordonnées**<br>
+Château de Versailles - Grand Commun<br>
+1 rue de l’Indépendance américaine<br>
+RP 834 – 78008 Versailles Cedex<br>
 France
 
-SIREN : 180 046 260
+SIREN : 180 046 260<br>
 
+<br>
+<br>
 
 # Acteurs de l'EPV
 
