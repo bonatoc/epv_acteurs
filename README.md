@@ -1,5 +1,8 @@
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 
+<script>
+$('a').attr('target','_blank');
+ </script>
 
 # Parties
 
