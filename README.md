@@ -23,6 +23,14 @@ p{
   margin-top: 1.3rem;
   }
   
+h3 {
+    margin-top: 2rem;
+} 
+
+h1, h2 {
+    margin-top: 3rem;
+}  
+
 </style>
 
 
