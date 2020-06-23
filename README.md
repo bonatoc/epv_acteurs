@@ -3,10 +3,24 @@
 
 
 <script>
+  
   $(document).ready(function(){
 $('a').attr('target','_blank');
   });
+  
  </script>
+
+
+
+
+<style>
+  
+p{
+  margin-top: 3rem;
+  }
+  
+</style>
+
 
 
 
