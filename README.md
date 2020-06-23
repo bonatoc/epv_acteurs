@@ -27,8 +27,14 @@ h3 {
     margin-top: 2rem;
 } 
 
-h1, h2 {
+h2 {
+    margin-top: 2rem;
+    font-size: 2.4rem;
+} 
+
+h1 {
     margin-top: 3rem;
+    font-size: 3rem;
 }  
 
 </style>
