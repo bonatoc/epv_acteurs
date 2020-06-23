@@ -10,10 +10,10 @@
 
 
 **Coordonnées**
-75 rue de la Paroisse
-78000 Versailles
-bonatoque@yahoo.com
-Tél : +33 6 47 52 82 87
+75 rue de la Paroisse<br>
+78000 Versailles<br>
+bonatoque@yahoo.com<br>
+Tél : +33 6 47 52 82 87<br>
 
 <br>
 
