@@ -16,7 +16,7 @@ $('a').attr('target','_blank');
 <style>
   
 p{
-  margin-top: 3rem;
+  margin-top: 1.3rem;
   }
   
 </style>
