@@ -91,7 +91,7 @@ SIREN : 180 046 260<br>
 
 <br>
 
-# Acteurs de l'EPV
+# Acteurs
 
 
 Christian Bonato a conçu, developpé, et maintenu à jour l'application "Manuel des Ventes" de 2013 à 2019 à la demande, et sous la direction de nombreux employés de l'EPV, à tous niveaux de hiérarchie.
@@ -120,7 +120,7 @@ Ils sont également tous au courant (exceptés Lionel Dupont et Jonathan Drahi) 
 
 <br>
 
-### Service Informations et Ventes (SIV), Direction du Développement Culturel (DDC)
+### EPV - Service Informations et Ventes (SIV), Direction du Développement Culturel (DDC)
 
 Acteurs listés par ordre hiérarchique descendant :
 
@@ -173,15 +173,12 @@ Acteurs listés par ordre hiérarchique descendant :
 
 ---
 
-### Direction Administrative, Financière et Juridique (DAFJ)
+### EPV - Direction Administrative, Financière et Juridique (DAFJ)
 
 **Mélissa Schitt**
 - Juriste marchés publics, Direction Administrative, Financière et Juridique (2014-présent)
 - [Viadeo](http://fr.viadeo.com/fr/profile/melissa.schitt)
 <br>
-
-
-## Acteurs externes
 
 
 ### Armatis LC ([site web](http://www.armatis.com/fr/secteurs-dactivites/))
@@ -203,7 +200,7 @@ Les acteurs "secondaires" sont tous les contacts, employés de l'EPV, ou employ�
 
 <br>
 
-### Service Informations et Ventes (SIV), Direction du Développement Culturel (DDC)
+### EPV - Service Informations et Ventes (SIV), Direction du Développement Culturel (DDC)
 
 **Lionel Dupont**
 - Responsable Marketing et Etudes, Direction du Développement Culturel (2009-2016)
@@ -255,7 +252,7 @@ Les acteurs "secondaires" sont tous les contacts, employés de l'EPV, ou employ�
 ---
 <br>
 
-### Direction de l'Information et de la Communication (DIC)
+### EPV - Direction de l'Information et de la Communication (DIC)
 
 **Paul Chaine**
 - Chef de Service Développement Numériques, Direction de l'Information et de la Communication (2015-présent)
@@ -277,7 +274,7 @@ Les acteurs "secondaires" sont tous les contacts, employés de l'EPV, ou employ�
 ---
 <br>
 
-### Direction Administrative, Financière et Juridique (DAFJ)
+### EPV - Direction Administrative, Financière et Juridique (DAFJ)
 
 **Olivier Suty**
 - Chef du Service Informatique, Direction Administrative, Financière et Juridique (2018-présent)
@@ -287,7 +284,7 @@ Les acteurs "secondaires" sont tous les contacts, employés de l'EPV, ou employ�
 ---
 <br>
 
-## Acteurs externes
+## Acteurs secondaires externes
 
 
 ### Armatis LC ([site web](http://www.armatis.com/fr/secteurs-dactivites/))
@@ -378,5 +375,3 @@ Restaurateur.
 **Amélie Saunier**
 - Responsable Marketing, chez Ducasse Paris 
 - [Linkedin](https://www.linkedin.com/in/am%C3%A9lie-saunier-bb78082/?locale=fr_FR)
-
-
