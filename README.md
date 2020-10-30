@@ -19,23 +19,33 @@ $('a').attr('target','_blank');
 
 <style>
   
-p{
-  margin-top: 1.3rem;
-  }
-  
-h3 {
-    margin-top: 2rem;
-} 
+  h1 {
+    margin-top: 3rem;
+    font-size: 2rem;
+}  
+
 
 h2 {
     margin-top: 2rem;
-    font-size: 2.4rem;
+    font-size: 1.6rem;
 } 
 
-h1 {
-    margin-top: 3rem;
-    font-size: 3rem;
-}  
+  
+h3 {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+} 
+
+
+p{
+  margin-top: 2.6rem;
+  font-size:1.2rem;
+  line-height: 2.2rem;
+  }
+
+
+
+
 
 </style>
 
@@ -120,8 +130,6 @@ Ces acteurs "principaux" sont tous au courant du fait que **l'EPV a à cet effet
 
 
 Ils sont également tous au courant (exceptés Lionel Dupont et Jonathan Drahi) de la tentative par l'EPV de faire **acheter l'Application "Manuel des Ventes" par la société Armatis-LC pour le compte de l'EPV**.
-
--> Voir : [Bonato EPV - Marché Public](https://bonatoc.github.io/epv_marche_public/)
 
 
 <br>
