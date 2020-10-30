@@ -52,61 +52,6 @@ p{
 
 
 
-# Parties
-
-## Christian Bonato
-
-[Profil Professionnel](https://www.linkedin.com/in/christianbonato/) :
-- Chef de projet
-- Directeur Artistique
-- Architecte Logiciel et Base de Données
-- UX / UI Designer
-- Développeur Javascript
-- Développeur Linux/Apache/PHP/MySQL
-- Développeur HTML5/CSS3
-
- Travailleur Indépendant, régime fiscal Micro-Entreprise<br>
- SIRET : 394 464 283 00032 · Code APE : 923A<br>
-
-**Coordonnées**<br>
-75 rue de la Paroisse<br>
-78000 Versailles<br>
-bonatoque@yahoo.com<br>
-Tél : +33 6 47 52 82 87
-
-<br>
-
-
-## Établissement public du château, du musée et du domaine national de Versailles (EPV)
-
-
-> Le château, le musée et le domaine national de Versailles constituent depuis 1995 un établissement public à caractère administratif, doté d’une autonomie de gestion administrative et financière. Il est placé sous la tutelle du ministère de la culture et du ministère en charge du budget. 
-> 
-> [...]
-> 
-> **Le budget consolidé de l’Établissement public représente environ 100 millions d’euros par an**. Les dépenses de fonctionnement sont financées par les ressources propres de l’Établissement, notamment celles qu’il tire de sa billetterie et de ses activités commerciales. [...]
-
-- [Site Officiel](http://www.chateauversailles.fr/)
-- [Identikit sur le Site Officiel](http://www.chateauversailles.fr/etablissement-public)
-- [Fiche Wikipedia](https://www.wikiwand.com/fr/%C3%89tablissement_public_du_ch%C3%A2teau,_du_mus%C3%A9e_et_du_domaine_national_de_Versailles)
-- [Rapport d'activité 2014](http://www.chateauversailles.fr/sites/default/files/rapport_activites_2014.pdf)
-- [Rapport d'activité 2015](http://www.chateauversailles.fr/sites/default/files/rapport_activites_2015.pdf)
-- [Rapport d'activité 2016](http://www.chateauversailles.fr/sites/default/files/rapport_dactivite_chateau_de_versailles_2016.pdf)
-- [Rapport d'activité 2017](http://www.chateauversailles.fr/sites/default/files/rapport_dactivite_2017.pdf)
-- [Rapport d'activité 2018](http://www.chateauversailles.fr/sites/default/files/chateau-de-versailles-rapport-d-activite-2018.pdf)
-- Rapport d'activité 2019
-
-<br>
-
-**Coordonnées**<br>
-Château de Versailles - Grand Commun<br>
-1 rue de l’Indépendance américaine<br>
-RP 834 – 78008 Versailles Cedex<br>
-France<br>
-SIREN : 180 046 260<br>
-
-<br>
-
 # Acteurs
 
 
